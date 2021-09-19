@@ -1,0 +1,229 @@
+body{
+    background-color:darkslategrey;
+    margin: 20px auto;
+    width: 200px;
+}
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 20px;
+    text-align: center;
+
+}
+h2 strong{
+    
+    color:red;
+    font-size: 75px;
+    font-style: bold;
+}
+h2{
+    color:white;
+}
+.logo img{
+    border-radius: 50%;
+    border:5px solid white;
+    height: 100px;
+    width: 60px;
+    display: block;
+    background-color:rgb(0, 162, 255);
+    margin-top: 30px;
+}
+.div1{
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+    color: white;
+    font-weight: 500;
+    padding: 100px;
+    text-align: center;
+    
+}
+
+.div1 img{
+     height: 100px;
+     width:100px;
+     padding: 30px 50px 5px 75px;
+     
+}
+.div2{
+    height: 400px;
+    width: 400px;
+    background-color:rgb(0, 174, 255);
+    color: white;
+    font-weight: 500;
+    padding: 80px ;
+    text-align: center;
+    
+}
+.div2 img{
+     height: 100px;
+     width:100px;
+     padding: 20px 5px 2px 20px;
+     float: left;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.second{
+    height: 300px;
+    width: 600px;
+    background-color: rgb(243, 75, 75);
+    color: white;
+    padding: 50px;
+    margin: 20px;
+    text-align: left;
+    display:flex;
+    flex-direction: row;
+    position: relative;
+}
+.spic{
+    display:flex;
+    flex-direction: row;
+    justify-items: right;
+    height: 60px;
+    width: 60px;
+    padding: 60px;
+}
+.second p{
+    position: absolute;
+    top: 60%;
+
+}
+.third{
+    height: 300px;
+    width: 600px;
+    background-color:rgb(0, 174, 255);
+    color: white;
+    padding: 50px;
+    margin: 20px;
+}
+.risk{
+    display: inline-flex;
+    flex-direction: row;
+}
+.risk img{
+    height: 60px;
+    width: 60px;
+    padding-left: 20px;
+}
+.para{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+}
+.lhs{
+    padding-right: 80px;
+}
+.fries{
+    height: 400px;
+    width: 300px;
+    background-color:rgb(243, 75, 75);
+    color: white;
+    font-weight: 500;
+    padding: 80px;
+    text-align: center;
+    
+}
+
+.fries img{
+     height: 100px;
+     width:100px;
+     padding: 30px 50px 5px 75px;
+     
+}
+.juice{
+    height: 400px;
+    width: 300px;
+    background-color:orange;
+    color: white;
+    font-weight: 500;
+    padding: 80px 110px 80px 80px;
+    text-align: center;
+    
+}
+.juice img{
+     height: 100px;
+     width:100px;
+     padding: 20px 5px 10px 20px;
+}
+.four{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.five{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between ;
+    height: 100px;
+    width: 580px;
+    background-color:rgb(0, 174, 255);
+    color: white;
+    padding: 60px;
+    margin: 20px;
+   position: relative;
+}
+.five img{
+    height: 80px;
+    width: 80px;
+}
+.five p{
+    position: absolute;
+    top: 75%;
+}
+.six{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between ;
+    height: 100px;
+    width: 580px;
+    background-color:orange;
+    color: white;
+    padding: 60px;
+    margin: 20px;
+   position: relative;
+}
+.six img{
+    height: 80px;
+    width: 80px;
+}
+.six p{
+    position: absolute;
+    top: 75%;
+}
+.cost{
+    height: 400px;
+    width: 300px;
+    background-color:rgb(0, 174, 255);
+    color: white;
+    font-weight: 500;
+    padding: 80px;
+    text-align: center;
+    
+}
+
+.cost img{
+     height: 100px;
+     width:100px;
+     padding: 30px 50px 5px 75px;
+     
+}
+.eat{
+    height: 400px;
+    width: 300px;
+    background-color:rgb(243, 75, 75);
+    color: white;
+    font-weight: 500;
+    padding: 80px 110px 80px 80px;
+    text-align: center;
+}
+.seven{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
